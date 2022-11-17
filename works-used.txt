@@ -1,6 +1,7 @@
-https://www.ibm.com/cloud/learn/data-science-introduction
-https://www.britannica.com/topic/Google-Inc
-
-Hall, Mark. “Google.” Edited by William L. Hosch, Encyclopædia Britannica, Encyclopædia Britannica, Inc., https://www.britannica.com/topic/Google-Inc.
 IBM Cloud Education. “What Is Data Science.” IBM, IBM, 2 Aug. 2022, https://www.ibm.com/cloud/learn/data-science-introduction.
 Indeed Editorial Team. “12 Data Science Careers to Pursue (plus Salaries and Duties).” Indeed, Indeed, https://www.indeed.com/career-advice/finding-a-job/data-science-career.
+SQLite, SQLite, https://sqlite.org/index.html.
+“SQL.” Wikipedia, Wikimedia Foundation, 9 Nov. 2022, https://en.wikipedia.org/wiki/SQL. 
+"SQLITE 3 - DB-API 2.0 Interface for SQLite Databases." sqlite3 - DB-API 2.0 Interface for SQLite Databases - Python 3.11.0 Documentation, Python, https://docs.python.org/3/library/sqlite3.html.
+"What is Quantum Computing?" IBM, IBM, https://www.ibm.com/topics/quantum-computing.
+"What Is a Qubit?: Microsoft Azure." What Is a Qubit? | Microsoft Azure, Microsoft Azure, https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-qubit/.
